@@ -1,3 +1,7 @@
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=tommydunn/realvoicegpt@github)](https://gitads.dev/v1/ad-track?source=tommydunn/realvoicegpt@github)
+
+
 <!-- GitAds-Verify: 77BA9EQ6VHVOGH9EP8IUMIC41JGYAFO7 -->
 
 # RealVoiceGPT
