@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: 77BA9EQ6VHVOGH9EP8IUMIC41JGYAFO7 -->
+
 # RealVoiceGPT
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
